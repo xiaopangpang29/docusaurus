@@ -400,7 +400,7 @@ module.exports = {
 };
 ```
 
-See also: [`getClientModules()`](lifecycle-apis.md#getClientModules).
+See also: [`getClientModules()`](./plugin-apis/lifecycle-apis.md#getClientModules).
 
 ### `ssrTemplate` {#ssrtemplate}
 
